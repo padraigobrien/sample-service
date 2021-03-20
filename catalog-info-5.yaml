@@ -11,7 +11,7 @@ metadata:
     aws.com/lambda-function-name: HelloWorld
     aws.com/lambda-region: eu-west-1
     datadoghq.com/dashboard-url: https://p.datadoghq.eu/sb/x5lc2ayfxeebsas1-6ad7c05c9211d7f93167b5101805f089
-    datadoghq.com/graph-token: 015256c3f6dfea453cb4b09107a8972ef6f5caa9676de18e44e869e188a24dc0
+    datadoghq.com/graph-token: 54f9e5b8f5c0287b0c8f478dcb1118b8d1d5b203b1ea50016b3297cf8bee8ac8
     jira/project-key: TEST
     snyk.io/org-name: roadie
     snyk.io/project-ids: 63ac09c4-fd65-4f53-b9b2-c31d2dee3291 
